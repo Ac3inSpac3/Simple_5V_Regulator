@@ -13,15 +13,15 @@ This 5V regulator was designed for my EGH419 Class (Mechatronics design 3). It w
 - High Current Output
 
 ### Schematic
-
+The schematic for this PCB was designed in KiCAD, KiCAD was used because it is a free program and I do not need to mess around with Educational Licences like I did when working in Altium.
 ![Schematic](schematic.png)
 
 ### PCB
-
+The PCB was designed and sent to JLCPCB to be manufactured (Manufacturing and Gerber files provided).
 ![PCB](pcb.png)
 
 ### Final Product
-
+With the PCB now manufactured it was tested and placed into the robot. It worked well, providing 5V to the Raspberry Pi without any annoying low power warnings like the previous solution had done.
 ![Final Product](finalProduct.png)
 
 
