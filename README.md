@@ -1,10 +1,10 @@
 # Basic 5V Regulator for Raspberry Pi
 
-![Regulator Image](regulatorImage.jpg)
+![Regulator Image](regulatorImage.png)
 
 ## Introduction
 
-This 5V regulator was designed for my EGH320 Class (Mechatronics design 3). It was designed to take the high input voltage the main robot ran off, (a 6s lipo drone battery or 4 individual 18650 cells in parallel) and output a consistent 5V for the raspberry pi to run off. The regulator needed to be capable of providing enough current for the Pi to run OpenCV object recognition on top of the navigation code. 
+This 5V regulator was designed for my EGH419 Class (Mechatronics design 3). It was designed to take the high input voltage the main robot ran off, (a 6s lipo drone battery or 4 individual 18650 cells in parallel) and output a consistent 5V for the raspberry pi to run off. The regulator needed to be capable of providing enough current for the Pi to run OpenCV object recognition on top of the navigation code. 
 
 ## Features
 
@@ -14,14 +14,14 @@ This 5V regulator was designed for my EGH320 Class (Mechatronics design 3). It w
 
 ### Schematic
 
-![Schematic](schematic.jpg)
+![Schematic](schematic.png)
 
 ### PCB
 
-![PCB](pcb.jpg)
+![PCB](pcb.png)
 
 ### Final Product
 
-![Final Product](finalProduct.jpg)
+![Final Product](finalProduct.png)
 
 
