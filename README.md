@@ -12,8 +12,6 @@ This 5V regulator was designed for my EGH320 Class (Mechatronics design 3). It w
 - Output Voltage: 5V
 - High Current Output
 
-## Getting Started
-
 ### Schematic
 
 ![Schematic](schematic.jpg)
