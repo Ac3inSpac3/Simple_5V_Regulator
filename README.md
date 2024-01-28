@@ -23,4 +23,4 @@ The PCB was designed and sent to JLCPCB to be manufactured (Manufacturing and Ge
 
 ## Final Product
 With the PCB now manufactured it was tested and placed into the robot. It worked well, providing 5V to the Raspberry Pi without any annoying low power warnings like the previous solution had done.
-![Final Product](finalProduct.png)
+![Final Product](Final.jpg)
